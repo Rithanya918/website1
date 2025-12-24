@@ -67,7 +67,7 @@ const HeroSection = () => {
             className="text-5xl md:text-7xl lg:text-8xl font-display font-bold mb-6"
           >
             <span className="text-foreground">Hi, I'm </span>
-            <span className="gradient-text text-shadow-glow">Alex Chen</span>
+            <span className="gradient-text text-shadow-glow">Rithanya Sekar</span>
           </motion.h1>
 
           <motion.p
