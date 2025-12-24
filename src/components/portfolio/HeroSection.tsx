@@ -115,7 +115,7 @@ const HeroSection = () => {
             className="flex gap-6 justify-center"
           >
             <motion.a
-              href="https://github.com"
+              href="https://github.com/Rithanya918"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300"
@@ -125,7 +125,7 @@ const HeroSection = () => {
               <Github size={24} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/rithanya-sekar-/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300"
